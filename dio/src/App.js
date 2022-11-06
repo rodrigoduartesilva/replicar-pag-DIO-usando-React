@@ -15,7 +15,7 @@ function App() {
         <Route path='/login' element={<Login />} />
       </Routes>
     </Router>
-  );
+  )
 }
 
 export default App;
